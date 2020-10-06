@@ -1,0 +1,73 @@
+.bar {
+    margin: 0 auto;
+    width: 575px;
+    border-radius: 30px;
+    border: 1px solid #dcdcdc;
+}
+.searchbar{
+    height: 45px;
+    border: none;
+    width: 500px;
+    font-size: 16px;
+    outline: none;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li{
+    float: right;
+}
+li a{
+    color: #000;
+    display: block;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 14px;
+}
+.signbutton{
+    background-color: #4885ed;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding:7px 10px;
+    position: relative;
+    bottom:7px;
+    font-weight: bold;
+}
+.grid{
+    height:23px;
+    position: relative;
+    bottom:4px;
+}
+
+.logo{
+    margin-top: 200px;
+    margin-bottom: 20px;
+}
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height:80px;
+    background-color: #F2F2F2;
+    clear: both;
+    display: block;
+}
+#footlistleft{
+    float: left;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+#footlistright{
+    float: right;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
